@@ -1,0 +1,19 @@
+{
+  "name": "cursive-loader",
+  "version": "0.1.0",
+  "description": "cursive loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cursive",
+    "cson",
+    "lifthrasiir"
+  ],
+  "author": "JongChan Choi",
+  "license": "zlib",
+  "dependencies": {
+    "cursive": "^0.3.0"
+  }
+}
